@@ -54,7 +54,7 @@ DEPENDENCIES
   activerecord (= 4.2.5)
   database_cleaner
   pry
-  rake
+  rake (= 10.4.2)
   rspec
   sqlite3
 
